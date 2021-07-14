@@ -11,7 +11,7 @@ This project was created as part of the IBM Data Science Professional Certificat
 ## Getting Started
 
 ### Usage
-The analysis is presented in MMMAnalysisReport.pdf and the code for analysis in media_mix_modelling.ipynb. In addition, the images used in the report are present separately for easy access to the information.
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
