@@ -1,6 +1,6 @@
-# Applied Data Science Specialisation Capstone - The Battle of Neighbourhoods
+# Applied Data Science Specialisation Capstone - Part 1
 
-Neighbourhoods Segmentation and Clustering.
+Toronto City Neighbourhoods Segmentation and Clustering.
 
 ## Description
 
