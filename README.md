@@ -11,7 +11,9 @@ This project was created as part of the IBM Data Science Professional Certificat
 ## Getting Started
 
 ### Usage
-To do
+The analysis and the code are presented together in ```toronto_neighbourhoods_segmentation_clustering.ipynb```. The code is in Python; hence, Python and optional tools like Jupyter Notebook are required to run the code. In addition, the images used in the report are present separately for easy access to the information.
+
+However, this repository also stores the data used for analysis in ```Geospatial_Coordinates.csv```.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
